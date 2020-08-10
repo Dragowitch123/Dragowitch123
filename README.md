@@ -1,6 +1,6 @@
 ### Hi there, I'm Sumit - aka [Dragowitch123] 👋
 
-## I'm a Student, Noob_Developer!
+## I'm a Student, Developer!
 - 🔭 I’m currently working on a [VS Code Course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
