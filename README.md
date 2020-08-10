@@ -35,8 +35,6 @@
 ---
 
 
-<img align="left" alt="Dragowitch123's Github Stats" src="https://github-readme-stats.Dragowitch123.vercel.app/api?username=Dragowitch123&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/DragoWitch123
 [instagram]: https://www.instagram.com/justsumit_singh
 [linkedin]: https://www.linkedin.com/in/sumit-singh-830654a1
