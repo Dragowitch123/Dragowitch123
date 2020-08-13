@@ -31,7 +31,7 @@
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragowitch123&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dragowitch123&show_icons=true&theme=radical&line_height=21%22%20alt=%22Ohidur%27s%20github%20stats"/>
+  <img align="center" src="https://camo.githubusercontent.com/01628c3de97cc695a11195961e7f8108cdd64a3e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d447261676f77697463683132332673686f775f69636f6e733d74727565267468656d653d7261646963616c266c696e655f6865696768743d3231253232253230616c743d2532324f6869647572253237732532306769746875622532307374617473"/>
 </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
